@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602181520 source:c:\users\jorge\desktop\fundamentos de programación\practicas de fp\practica 4 fp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
