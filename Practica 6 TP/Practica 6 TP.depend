@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603294091 source:c:\users\jorge\desktop\fundamentos de programación\practicas de tp\practica 6 tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

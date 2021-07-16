@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606661063 source:c:\users\jorge\desktop\fundamentos de programación\practicas de tp\practica 11 tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607597380 source:c:\users\jorge\desktop\fundamentos de programación\proyectos\455_practica_13_2020-2021_tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1607946311 source:c:\users\jorge\desktop\fundamentos de programación\practicas de tp\455_practica_13_2020-2021_tp\main.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
